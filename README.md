@@ -43,4 +43,4 @@ Text preprocessing, linguistic parsing
 
 ### 6. Tic-Tac-Toe Game
 **Features:**  
-User vs AI mode using basic game AI logic or rule-based reasoning.
+User vs AI mode
